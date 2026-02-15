@@ -174,4 +174,4 @@
 > ## The Core Idea in One Line
 > >  Classes should not create the resources they depend on — they should receive them.
 >
-> 
+> ## Supplier<> (learn about this later)
